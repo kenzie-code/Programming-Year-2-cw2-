@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=AcademicCourse
+comment1.params=Level\ credit\ courseID\ numberofassessments\ coursename\ Duration
+comment1.target=AcademicCourse(java.lang.String,\ int,\ java.lang.String,\ int,\ java.lang.String,\ int)
+comment10.params=numberofassessments
+comment10.target=void\ setnumberofassessments(int)
+comment11.params=courseleader\ lecturername\ StartingDate\ CompletionDate
+comment11.target=void\ register(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment12.params=
+comment12.target=void\ display()
+comment2.params=
+comment2.target=java.lang.String\ getlecturername()
+comment3.params=
+comment3.target=java.lang.String\ getLevel()
+comment4.params=
+comment4.target=int\ getcredit()
+comment5.params=
+comment5.target=java.lang.String\ getStartingDate()
+comment6.params=
+comment6.target=java.lang.String\ getCompletionDate()
+comment7.params=
+comment7.target=int\ getnumberofassessments()
+comment8.params=
+comment8.target=boolean\ getisRegistered()
+comment9.params=lecturername
+comment9.target=void\ setlecturername(java.lang.String)
+numComments=13
